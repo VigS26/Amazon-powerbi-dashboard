@@ -43,9 +43,11 @@ Drill-Down Views: Add filters by region, customer segment, or sales channel for 
 
 Advanced Analytics: Incorporate forecasting models to predict future sales performance.
 
----
-👤 Author
-Vigneshwari Senthil
 Visualization Enhancements: Use interactive charts and KPIs to make insights more intuitive.
 
 Export Options: Enable one-click PDF or PowerPoint export for business reporting.
+
+---
+👤 Author
+Vigneshwari Senthil
+
